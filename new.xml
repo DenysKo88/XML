@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<!-- About myself -->
+	<name>Denys Kolomiiets</name>
+	<age>33</age>
+	<pets>cat</pets>
+	<DesireSalary>2000$</DesireSalary>
+</root>
