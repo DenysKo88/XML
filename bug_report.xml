@@ -1,1 +1,23 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <!-- Bug Example -->
+  <Bug_ID>порядковый номер</Bug_ID>
+  <Title>описание проблемы(заголовок)</Title>
+  <Severity>
+    <type>Blocker</type>
+    <type>Critical</type>
+    <type>Major</type>
+    <type>Minor</type>
+    <type>Trivial</type>
+  </Severity>
+  <Priority>
+    <type>high</type>
+    <type>medium</type>
+    <type>low</type>
+  </Priority>
+  <Enviroment>окружение, в котором обнаружен баг</Enviroment>
+  <STR>шаги для воспроизведения бага</STR>
+  <ActualResult>фактичексий результат</ActualResult>
+  <ExpectedResult>ожидаемый результат</ExpectedResult>
+  <Attachments>скриншот или видео в подтверждение бага</Attachments>
+</root>
